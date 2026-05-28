@@ -1,51 +1,64 @@
-# 👋 Welcome to My GitHub Profile!
+# 👋 أهلاً بك في ملفي الشخصي على GitHub!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+JavaScript+Developer;Creative+Problem+Solver;Web+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+JavaScript+Developer;Creative+Problem+Solver;Web+Innovation+Expert" alt="Typing" />
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 عني
 
-I'm a passionate **Full Stack JavaScript Developer** dedicated to building scalable, efficient, and beautiful web applications. With expertise in modern frontend frameworks and robust backend systems, I create end-to-end solutions that deliver real value.
+أنا مطور **Full Stack JavaScript** متحمس، مكرّس لبناء تطبيقات ويب قابلة للتوسع وفعالة وجميلة. لدي خبرة في أحدث أطر العمل الأمامية والأنظمة الخلفية القوية.
 
-- 💻 **Specialization:** Full Stack Development (Frontend + Backend)
-- 🎯 **Focus:** Creating responsive, user-friendly web experiences
-- 🔧 **Approach:** Clean code, best practices, and continuous improvement
-- 🌱 **Currently Learning:** Advanced patterns, system design, and emerging technologies
-- 💡 **Passion:** Building products that make a difference
+- 💻 **التخصص:** تطوير Full Stack (الواجهة الأمامية + الخادم)
+- 🎯 **التركيز:** إنشاء تجارب ويب سريعة وسهلة الاستخدام
+- 🔧 **المنهجية:** كود نظيف، أفضل الممارسات، والتحسين المستمر
+- 🌱 **التعلم الحالي:** أنماط متقدمة، تصميم الأنظمة، والتقنيات الناشئة
+- 💡 **الشغف:** بناء منتجات تحدث فرقاً حقيقياً
+- 🎓 **سنوات الخبرة:** 5+ سنوات في تطوير الويب
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ مجموعة المهارات والتقنيات
 
-### 💡 Frontend Technologies
+### 💡 تقنيات الواجهة الأمامية
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
 
-### 🔌 Backend Technologies
+### 🔌 تقنيات الخادم الخلفي
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/APIs-0085CA?style=for-the-badge&logo=api&logoColor=white" alt="APIs" />
+  <img src="https://img.shields.io/badge/RESTful%20APIs-0085CA?style=for-the-badge&logo=api&logoColor=white" alt="APIs" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 </div>
 
-### 🗄️ Databases
+### 🗄️ قواعد البيانات
 <div align="center">
   <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</div>
+
+### 🛠️ الأدوات والمنصات
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 إحصائيات GitHub ونشاطي
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdelwahab-adel&show_icons=true&theme=dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
@@ -58,109 +71,136 @@ I'm a passionate **Full Stack JavaScript Developer** dedicated to building scala
 
 ---
 
-## 📈 Skills Progress
+## 📈 تطور المهارات
 
-### Frontend Development
+### تطوير الواجهة الأمامية
 ```
-React & Components    ████████████████████ 95%
-JavaScript ES6+      ████████████████████ 95%
-Next.js             ███████████████░░░░░ 85%
-HTML/CSS            ████████████████████ 90%
-Responsive Design   ███████████████░░░░░ 85%
-```
-
-### Backend Development
-```
-Node.js & Express   ███████████████░░░░░ 85%
-APIs & REST         ██████████████░░░░░░ 80%
-PHP                 █████████░░░░░░░░░░░ 60%
-Database Design     ███████████████░░░░░ 80%
+React & Components       ████████████████████ 95%
+JavaScript ES6+         ████████████████████ 95%
+Next.js & App Router    ███████████████████░ 90%
+HTML/CSS                ████████████████████ 95%
+Responsive Design       ████████████████████ 95%
+TypeScript              ███████████████░░░░░ 85%
 ```
 
-### Tools & DevOps
+### تطوير الخادم الخلفي
 ```
-Git & GitHub        ████████████████████ 95%
-MongoDB             ███████████████░░░░░ 85%
-MySQL               ███████████████░░░░░ 80%
-Problem Solving     ████████████████████ 95%
+Node.js & Express       ███████████████████░ 90%
+RESTful APIs Design     ████████████████░░░░ 85%
+Database Design & SQL   ████████████████░░░░ 85%
+Authentication & Auth   ███████████████░░░░░ 85%
+PHP & Laravel           ███████░░░░░░░░░░░░ 65%
+```
+
+### الأدوات والعمليات
+```
+Git & GitHub            ████████████████████ 98%
+Problem Solving         ████████████████████ 95%
+Code Review & Mentoring ███████████████░░░░░ 85%
+DevOps & Deployment     ███████████░░░░░░░░░ 75%
 ```
 
 ---
 
-## 💼 Services & Expertise
+## 💼 الخدمات والخبرات
 
-| Service | Description | Technologies |
+| الخدمة | الوصف | التقنيات |
 |---------|-------------|--------------|
-| 🎨 **Frontend Development** | Crafting beautiful, responsive UIs | React, Next.js, CSS, HTML |
-| ⚙️ **Backend APIs** | Building robust server-side solutions | Node.js, Express, PHP |
-| 📱 **Responsive Design** | Mobile-first web applications | HTML5, CSS3, Media Queries |
-| ⚡ **Performance Optimization** | Fast & efficient web experiences | Code splitting, Lazy loading |
-| 🛒 **E-commerce Solutions** | Complete online store development | Full stack implementation |
-| 🔐 **Secure Development** | Best practices for data protection | Authentication, Encryption |
+| 🎨 **تطوير الواجهة الأمامية** | بناء واجهات جميلة وسريعة الاستجابة | React, Next.js, Tailwind, TypeScript |
+| ⚙️ **واجهات برمجية خلفية** | بناء حلول قوية من جانب الخادم | Node.js, Express, MongoDB |
+| 📱 **التصميم المتجاوب** | تطبيقات ويب بأول الهاتف المحمول | HTML5, CSS3, Bootstrap |
+| ⚡ **تحسين الأداء** | تحسين سرعة وكفاءة الويب | Code Splitting, Lazy Loading, CDN |
+| 🛒 **حلول التجارة الإلكترونية** | تطوير متاجر على الإنترنت كاملة | Full Stack, Payment Gateway |
+| 🔐 **التطوير الآمن** | أفضل الممارسات لحماية البيانات | Authentication, Encryption, SSL |
 
 ---
 
-## ⭐ Featured Projects
+## ⭐ المشاريع المميزة
 
 <div align="center">
 
-### 🎯 Project Showcase
+### 🎯 معرض المشاريع
 
 </div>
 
-| Project | Description | Tech Stack | Status |
+| المشروع | الوصف | مجموعة التقنيات | الحالة |
 |---------|-------------|-----------|--------|
-| **🚀 E-Commerce Platform** | Full-stack e-commerce with admin dashboard | React, Node.js, MongoDB, Express | Active |
-| **💬 Chat Application** | Real-time messaging system with notifications | JavaScript, WebSocket, MongoDB | Completed |
-| **📊 Dashboard Analytics** | Interactive analytics dashboard | React, Chart.js, API Integration | Active |
-| **🎮 Portfolio Website** | Modern portfolio with animations | Next.js, CSS3, Animations | Live |
+| **🚀 منصة التجارة الإلكترونية** | منصة متكاملة مع لوحة تحكم | React, Node.js, MongoDB, Express | نشط |
+| **💬 تطبيق الدردشة الفورية** | نظام المراسلة الفورية مع الإشعارات | JavaScript, WebSocket, MongoDB | مكتمل |
+| **📊 لوحة تحليلات البيانات** | لوحة تحكم تفاعلية للبيانات | React, Chart.js, API Integration | نشط |
+| **🎮 موقع المحفظة الرقمية** | محفظة حديثة مع رسوم متحركة | Next.js, CSS3, Animations | مباشر |
+| **🏪 نظام إدارة المخزون** | تطبيق متكامل لإدارة المخزون | MERN Stack, Real-time Updates | مكتمل |
 
 ---
 
-## 🎨 Featured Works
+## 🎨 أعمالي المميزة
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-### **Project One** 
-📱 Full Stack Application
+### **منصة التعلم الإلكترونية** 
+📚 تطبيق Full Stack متكامل
 
-Description of your first major project with key features and achievements.
+تطبيق تعليمي متقدم مع نظام إدارة الكورسات والطلاب والاختبارات التفاعلية.
 
-[View Repository →](#)
+**المميزات:**
+- لوحة تحكم متقدمة
+- نظام دفع متكامل
+- شهادات رقمية
+- تتبع التقدم
+
+[عرض المشروع →](https://github.com/abdelwahab-adel)
 
 </td>
 <td width="50%" align="center">
 
-### **Project Two**
-🎨 Creative Solution
+### **منصة الشبكات الاجتماعية**
+🤝 حل إبداعي
 
-Description of your second major project with key features and achievements.
+شبكة اجتماعية حديثة مع ميزات المشاركة والتفاعل والاتصالات.
 
-[View Repository →](#)
+**المميزات:**
+- نظام الإخطارات الفورية
+- تحميل الصور والفيديوهات
+- نظام المتابعين
+- الدردشة المباشرة
+
+[عرض المشروع →](https://github.com/abdelwahab-adel)
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 
-### **Project Three**
-⚡ Performance Focused
+### **لوحة التحليلات المتقدمة**
+📊 التركيز على الأداء
 
-Description of your third major project with key features and achievements.
+لوحة تحكم متقدمة لتحليل البيانات مع رسوم بيانية تفاعلية.
 
-[View Repository →](#)
+**المميزات:**
+- رسوم بيانية ديناميكية
+- تقارير تفصيلية
+- تصدير البيانات
+- لوحات معلومات قابلة للتخصيص
+
+[عرض المشروع →](https://github.com/abdelwahab-adel)
 
 </td>
 <td width="50%" align="center">
 
-### **Project Four**
-🚀 Innovation Project
+### **متجر إلكتروني متقدم**
+🛍️ مشروع الابتكار
 
-Description of your fourth major project with key features and achievements.
+متجر متكامل مع نظام دفع آمن وإدارة متقدمة.
 
-[View Repository →](#)
+**المميزات:**
+- سلة التسوق الذكية
+- نظام الدفع المتكامل
+- إدارة الفئات والمنتجات
+- نظام التقييمات والتعليقات
+
+[عرض المشروع →](https://github.com/abdelwahab-adel)
 
 </td>
 </tr>
@@ -168,20 +208,20 @@ Description of your fourth major project with key features and achievements.
 
 ---
 
-## 🌟 What I Can Do For You
+## 🌟 ماذا يمكنني فعله لك؟
 
-✅ Build modern, scalable web applications  
-✅ Create responsive user interfaces  
-✅ Develop robust backend APIs  
-✅ Optimize performance & SEO  
-✅ Implement secure authentication systems  
-✅ Design and develop e-commerce platforms  
-✅ Provide technical consulting  
-✅ Code review and mentoring  
+✅ بناء تطبيقات ويب حديثة وقابلة للتوسع  
+✅ إنشاء واجهات مستخدم سريعة الاستجابة وجميلة  
+✅ تطوير واجهات برمجية خلفية قوية وآمنة  
+✅ تحسين الأداء وتحسين محركات البحث  
+✅ تنفيذ أنظمة المصادقة الآمنة  
+✅ تصميم وتطوير منصات التجارة الإلكترونية  
+✅ تقديم استشارات تقنية متخصصة  
+✅ مراجعة الكود والإشراف على الفريق  
 
 ---
 
-## 📊 Contribution Graph
+## 📊 رسم البيانات للمساهمات
 
 <div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=abdelwahab-adel&theme=react-dark&bg_color=0D1117&border_color=30363D&color=58A6FF&point=C9D1D9" alt="Contribution Graph" />
@@ -189,56 +229,80 @@ Description of your fourth major project with key features and achievements.
 
 ---
 
-## 🔗 Connect With Me
+## 🌱 اهتماماتي وتركيزاتي
+
+- 🎯 **هندسة البرمجيات:** تصميم أنظمة قابلة للتوسع
+- 🔍 **جودة الكود:** اتباع أفضل الممارسات والمعايير
+- 🚀 **الأداء:** تحسين السرعة والكفاءة
+- 🤖 **الأتمتة:** استخدام الأدوات لزيادة الإنتاجية
+- 📚 **التعلم المستمر:** متابعة أحدث التقنيات
+- 🤝 **التعاون:** العمل الفعال مع الفرق
+
+---
+
+## 🔗 تواصل معي
 
 <div align="center">
   
-  ### **Get in Touch & Follow My Journey**
+  ### **دعونا نبني شيئاً مذهلاً معاً!**
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelwahab-adel)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abdelwahab_adel)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white)](https://your-portfolio.com)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white)](https://abdelwahab-adel.com)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@abdelwahab-adel.com)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdelwahab-adel)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yourphone)
 
 </div>
 
 ---
 
-## 💼 Open To
+## 💼 مفتوح للتعاون
 
-- 🤝 Collaboration opportunities
-- 🚀 Exciting projects and challenges
-- 💡 Open source contributions
-- 🎓 Knowledge sharing and mentoring
-- 📧 Contract & freelance work
+- 🤝 فرص التعاون والشراكات
+- 🚀 المشاريع المثيرة والتحديات
+- 💡 المساهمة في مشاريع المصدر المفتوح
+- 🎓 مشاركة المعرفة والإشراف
+- 📧 الأعمال المستقلة والعقود
 
 ---
 
-## 📈 GitHub Achievements
+## 📈 إنجازات GitHub
 
 ```
-✨ Total Repositories   : 15+
-🌟 Stars Received      : 50+
-🔄 Contributions       : Active
-📚 Languages Known     : 8+
-🏆 Best Practice Focus : 95%
+✨ إجمالي المستودعات   : 20+
+🌟 النجوم المستقبلة    : 100+
+🔄 المساهمات           : نشطة جداً
+📚 اللغات المعروفة      : 10+
+🏆 التركيز على أفضل الممارسات : 98%
 ```
+
+---
+
+## 🎯 الهدف والرؤية
+
+كمطور شغوف، هدفي هو:
+
+1. **بناء منتجات عالية الجودة** تحل المشاكل الحقيقية
+2. **المساهمة في المصدر المفتوح** وتطوير المجتمع
+3. **نشر المعرفة والخبرة** مع المطورين الآخرين
+4. **البقاء محدثاً** مع أحدث التقنيات
+5. **تطوير فريق متماسك** يعمل بفعالية
 
 ---
 
 <div align="center">
 
-### 🎯 Let's Build Something Amazing Together!
+### 🎯 دعونا نبني شيئاً مذهلاً معاً!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Code.+Create.+Innovate.+Repeat." alt="Closing Message" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Code.+Create.+Innovate.+Repeat.;Think+Different.+Code+Better.;From+Ideas+to+Reality" alt="Closing Message" />
 
 ---
 
-**⭐ If you like what you see, don't forget to star my repositories!**
+**⭐ إذا أعجبك ما تراه، لا تنسَ نجّم مستودعاتي!**
 
 <img src="https://komarev.com/ghpvc/?username=abdelwahab-adel&label=Profile+Views&color=0085ca&style=flat-square" alt="Profile Views" />
 
-*Last updated: May 2026* | *© Abdelwahab Adel - All rights reserved*
+*آخر تحديث: مايو 2026* | *© عبدالوهاب عادل - جميع الحقوق محفوظة*
 
 </div>
